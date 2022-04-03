@@ -1,0 +1,6 @@
+[submodule "third_party/libunwind"]
+	path = third_party/libunwind
+	url = https://github.com/libunwind/libunwind.git
+[submodule "third_party/sblz"]
+	path = third_party/sblz
+	url = https://github.com/Leedehai/sblz.git
